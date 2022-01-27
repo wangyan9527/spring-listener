@@ -8,7 +8,7 @@ import jdk.event.TaskFinishEvent;
  * 事件的抽象监听器
  * EventListener接口是一个标记接口，内部没有方法
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public interface TaskFinishEventListener extends EventListener {

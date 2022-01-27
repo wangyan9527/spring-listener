@@ -3,7 +3,7 @@ package spring.principle.event;
 /**
  * 下单成功事件
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public class OrderSuccessEvent extends ApplicationEvent{

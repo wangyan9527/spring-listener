@@ -6,7 +6,7 @@ import spring.principle.listener.ApplicationListener;
 /**
  * 事件发布器接口
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public interface ApplicationEventMulticaster {

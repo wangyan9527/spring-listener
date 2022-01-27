@@ -11,7 +11,7 @@ import spring.principle.listener.ApplicationListener;
 /**
  * 默认的广播器，如果需要自定义，可以自己实现ApplicationEventMulticaster或者继承本类后重写
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public class SimpleApplicationEventMulticaster implements ApplicationEventMulticaster {

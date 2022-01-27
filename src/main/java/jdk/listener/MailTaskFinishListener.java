@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 邮件服务监听器
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 @Data

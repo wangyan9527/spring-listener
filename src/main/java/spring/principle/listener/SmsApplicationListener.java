@@ -7,7 +7,7 @@ import spring.principle.event.OrderSuccessEvent;
 /**
  * 短信服务类，监听用户下单事件。只要下单成功，就会监听到
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 @Component

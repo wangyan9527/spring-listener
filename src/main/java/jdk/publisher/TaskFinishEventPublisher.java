@@ -9,7 +9,7 @@ import jdk.listener.TaskFinishEventListener;
 /**
  * 事件发布器
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public class TaskFinishEventPublisher {

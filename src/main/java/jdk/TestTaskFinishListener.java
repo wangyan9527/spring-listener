@@ -8,7 +8,7 @@ import jdk.publisher.TaskFinishEventPublisher;
 /**
  * 测试类
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public class TestTaskFinishListener {

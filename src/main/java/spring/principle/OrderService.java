@@ -9,7 +9,7 @@ import spring.principle.event.OrderSuccessEvent;
 /**
  * 模拟订单服务
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 @Component

@@ -11,7 +11,7 @@ import spring.principle.event.OtherEvent;
  * 2.使用@EventListener(OtherEvent.class)注解，修饰在方法上
  * {@link org.springframework.context.event.EventListener}
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 @Component

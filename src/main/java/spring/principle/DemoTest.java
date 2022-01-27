@@ -11,7 +11,7 @@ import spring.principle.listener.SmsApplicationListener;
 /**
  * 测试类，principle目录下的文件是按照spring监听器源码进行模拟的
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 public class DemoTest {

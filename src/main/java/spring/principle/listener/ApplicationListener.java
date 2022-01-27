@@ -8,7 +8,7 @@ import spring.principle.event.ApplicationEvent;
 /**
  * 监听器接口，监听事件抽象基类的所有子类对象
  *
- * @author wangyan0315@sunwayworld.com
+ *
  * @date 2021/12/20
  */
 @FunctionalInterface
